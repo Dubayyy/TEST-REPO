@@ -1,6 +1,6 @@
 # print("hello world")
 username = "Elliot"
-password = "Dubay"
+password = "Elliot"
 
 if username == password:
   print("Successful")
