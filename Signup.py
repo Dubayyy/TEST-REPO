@@ -6,6 +6,7 @@ DOB = "14th June 2003"
 PhoneNumber = "07063935013"
 PostalCode = "300271"
 
+<<<<<<< HEAD
 if Firstname == "Chidubem":
   print ("successful")
 else :
@@ -40,3 +41,4 @@ if PostalCode == "300271":
     print ("Successful")
 else:
     print ("Incorrect PostalCode")
+
