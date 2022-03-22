@@ -1,0 +1,43 @@
+.top-text {
+    color: rgb(29, 130, 177);
+}
+
+.header{
+    background-color: rgb(42, 127, 177);
+    padding: 0px 19px;
+    width: 100%;
+    color: white;
+}
+
+p {
+    color: rgb(86, 86, 88);
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+    color: black;
+    float: left;
+}
+
+.top {
+    color: red
+}
+
+.textblock {
+    padding: 1px 5px;
+    background-color: red;
+    margin : 20px 10px;
+    font-size: 50px;
+}
+
+.paragraph {
+    background-color: black;
+}
