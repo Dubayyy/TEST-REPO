@@ -3,10 +3,10 @@
 }
 
 .header{
-    background-color: rgb(42, 127, 177);
-    padding: 0px 19px;
+    background-color: rgb(46, 156, 46);
+    padding: 2px 19px;
     width: 100%;
-    color: white;
+    color: rgb(20, 12, 12);
 }
 
 p {
@@ -40,4 +40,9 @@ li {
 
 .paragraph {
     background-color: black;
+}
+
+
+.text-center{
+    color: red;
 }
