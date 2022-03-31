@@ -1,12 +1,17 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
 .top-text {
     color: rgb(29, 130, 177);
 }
 
-.header{
+.header {
     background-color: rgb(46, 156, 46);
     padding: 2px 19px;
     width: 100%;
-    color: rgb(20, 12, 12);
+    height: 85px;
+    color: #f8f9fa;
 }
 
 p {
