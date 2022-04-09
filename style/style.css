@@ -89,7 +89,7 @@ body {
 }
 
 .body-mid {
-    height: 500px;
+    height: 600px;
     background-color: #f8f8f6;
     margin: 50px 0px;
     padding: 100px 200px;
@@ -97,4 +97,11 @@ body {
 
 .body-mid-left{
     margin-right: 70px;
+}
+
+.container-x{
+    padding: 180px 200px;
+    margin: 100px;
+    height: 400px;
+    background-color: tomato;
 }
