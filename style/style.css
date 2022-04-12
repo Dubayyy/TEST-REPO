@@ -58,6 +58,7 @@ li {
 
 .container-fluid{
     padding: 0;
+    color: darkblue;
 }
 
 .img-thumbnail {
@@ -104,4 +105,8 @@ body {
     margin: 100px;
     height: 400px;
     background-color: tomato;
+}
+
+.container-fluid{
+    color: rgb(12, 15, 206);
 }
