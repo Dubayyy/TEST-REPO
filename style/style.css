@@ -110,21 +110,23 @@ body {
 
 .container-fluid{
     color: rgb(12, 15, 206);
-=======
-.logo{
-    color: #ffffff;
-    padding: 20px 0px;
+
 }
 
-.menu {
-    display: inline-flex;
-    padding: 20px 20px;
-    margin: 10px 57px;
+.menu{
     float: right;
+    display: inline-flex;
+    padding: 14px 28px;
+    margin: 20px 20px;
+    color: cyan;
 }
 
+.logo{
+    padding: 20px 89px;
+    color: #dee2e6;
+}
 
-.button_cece{
-    background-color: black;
->>>>>>> 8ff1396 (feat: added nav)
+.top10{
+    margin: 54px 92px;
+    padding: 50px 0px;
 }
