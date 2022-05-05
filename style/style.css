@@ -72,7 +72,7 @@ li {
 }
 
 body {
-    background: #85c3ff linear-gradient( 45deg
+    background: #e9f2fa linear-gradient( 45deg
         , #ffffff, rgb(255 255 255 / 0%), rgb(255 255 255)) fixed;
 }
 #comment-box, #post {
@@ -100,7 +100,6 @@ body {
     margin-right: 70px;
 }
 
-<<<<<<< HEAD
 .container-x{
     padding: 180px 200px;
     margin: 100px;
@@ -129,4 +128,42 @@ body {
 .top10{
     margin: 54px 92px;
     padding: 50px 0px;
+}
+
+
+.music-sites{
+        padding: 60px;
+        margin: 20px;
+}
+
+.music{
+    background-color: black;
+    height: 300px;
+    padding: 65px;
+
+}
+
+.playlist_logo{
+    width: 170px;
+    height: 100px
+}
+
+.calmdown{
+    border-right: 2px solid black;
+    margin-right: 21px;
+    margin-bottom: 30px;
+}
+
+.sotm{
+    margin-left: 60px;
+}
+
+.logomargin{
+    margin-left: 200px;
+}
+
+
+.footer{
+    background-color: gray;
+    height: 50px;
 }
